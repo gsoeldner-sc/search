@@ -23,4 +23,3 @@ if __name__ == "__main__":
         print(f"Snippet: {item['snippet']}")
         print(f"Link: {item['link']}")
         print()
-te
